@@ -1,7 +1,4 @@
-"""
-@AmineHorseman
-Sep, 1st, 2016
-"""
+
 import tensorflow as tf 
 from tflearn.layers.core import input_data, dropout, fully_connected
 from tflearn.layers.conv import conv_2d, max_pool_2d
