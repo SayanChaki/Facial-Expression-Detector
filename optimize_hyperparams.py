@@ -1,7 +1,4 @@
-"""
-@AmineHorseman
-Sep, 7th, 2016
-"""
+
 import time
 import argparse
 import pprint
