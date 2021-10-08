@@ -1,7 +1,4 @@
-"""
-@AmineHorseman
-Sep, 1st, 2016
-"""
+
 import os
 
 class Dataset:
