@@ -1,7 +1,3 @@
-"""
-@AmineHorseman
-Sep, 1st, 2016
-"""
 import tensorflow as tf
 from tflearn import DNN
 import time
